@@ -24,4 +24,7 @@
     version = @"version 1.0 branch";
 }
 
+- (void)version1_0
+{}
+
 @end
