@@ -20,7 +20,7 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     // Insert code here to initialize your application
-    NSString *version = @"version 1.0";
+    NSString *version = @"version 2.0";
 }
 
 - (void)version2_0
