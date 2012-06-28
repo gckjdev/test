@@ -23,4 +23,7 @@
     NSString *version = @"version 1.0";
 }
 
+- (void)version2_0
+{}
+
 @end
