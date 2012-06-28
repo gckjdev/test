@@ -21,6 +21,7 @@
 {
     // Insert code here to initialize your application
     NSString *version = @"version 1.0";
+    version = @"version 1.0 branch";
 }
 
 @end
